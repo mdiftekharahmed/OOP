@@ -1,0 +1,5 @@
+Payment_Type,Provider_or_Name,Account_or_Number,Amount,Status
+Credit Card,Rahim Ahmed2,1234-5678-9012,6000,Successful
+Mobile Banking,bKash2,01712345678,3500,Successful
+Bank Transfer,Sonali Bank2,AC-987654,20000,Successful
+Cash,N/A,N/A,25002,Successful
